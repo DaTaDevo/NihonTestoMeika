@@ -1,3 +1,5 @@
+#
+# [] create answer reveal after test for quicker check
 import os
 import random
 
